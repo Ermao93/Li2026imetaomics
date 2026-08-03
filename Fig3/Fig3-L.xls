@@ -1,0 +1,78 @@
+KEGG_A_class	KEGG_B_class	Pathway	A-vs-B (64)	All (9566)	Pvalue	Qvalue	Pathway ID	Genes	K_IDs
+Organismal Systems	Digestive system	Pancreatic secretion	17	73	1.439823e-22	1.108664e-20	ko04972	ENSDARG00000090428(ctrb1);ENSDARG00000093844(zgc:136461);ENSDARG00000056744(ela2);ENSDARG00000045442(cpb1);ENSDARG00000039730(zgc:112160);ENSDARG00000053323(zgc:112285);ENSDARG00000009443(zgc:92137);ENSDARG00000056765(ela2l);ENSDARG00000030915(cpa1);ENSDARG00000021339(cpa5);ENSDARG00000043722(cpa4);ENSDARG00000010146(cpa2);ENSDARG00000007276(ela3l);ENSDARG00000016290(clca1);ENSDARG00000079274(prss59.1);ENSDARG00000073742(prss59.2);ENSDARG00000068680(ctrl)	K01310+K01310+K01346+K01291+K01310+K01346+K01176+K01346+K08779+K08779+K01298+K01298+K01346+K05030+K01312+K01312+K09632
+Organismal Systems	Digestive system	Protein digestion and absorption	17	109	2.245514e-19	8.645229e-18	ko04974	ENSDARG00000090428(ctrb1);ENSDARG00000093844(zgc:136461);ENSDARG00000056744(ela2);ENSDARG00000045442(cpb1);ENSDARG00000044528(slc15a1b);ENSDARG00000039730(zgc:112160);ENSDARG00000053323(zgc:112285);ENSDARG00000056765(ela2l);ENSDARG00000030915(cpa1);ENSDARG00000021339(cpa5);ENSDARG00000043722(cpa4);ENSDARG00000010146(cpa2);ENSDARG00000007276(ela3l);ENSDARG00000056719(slc6a19b);ENSDARG00000079274(prss59.1);ENSDARG00000073742(prss59.2);ENSDARG00000068680(ctrl)	K01310+K01310+K01346+K01291+K14206+K01310+K01346+K01346+K08779+K08779+K01298+K01298+K01346+K05334+K01312+K01312+K09632
+Metabolism	Lipid metabolism	Steroid biosynthesis	6	23	6.518529e-09	1.673089e-07	ko00100	ENSDARG00000088140(hsd17b7);ENSDARG00000017490(cel.1);ENSDARG00000061274(lss);ENSDARG00000029822(cel.2);ENSDARG00000059824(soat2);ENSDARG00000042641(cyp51)	K13373+K12298+K01852+K12298+K00637+K05917
+Human Diseases	Infectious disease: bacterial	Staphylococcus aureus infection	5	110	0.0008159149	1.570636e-02	ko05150	ENSDARG00000036832(cyt1l);ENSDARG00000095147(krt96);ENSDARG00000102456(cfhl4);ENSDARG00000038424(c4b);ENSDARG00000055278(cfb)	K07604+K07604+K04004+K03989+K01335
+Organismal Systems	Endocrine system	Renin-angiotensin system	2	17	0.005617224	8.650525e-02	ko04614	ENSDARG00000041083(anpepa);ENSDARG00000057064(enpep)	K11140+K11141
+Organismal Systems	Immune system	Complement and coagulation cascades	3	65	0.009289365	1.192135e-01	ko04610	ENSDARG00000102456(cfhl4);ENSDARG00000038424(c4b);ENSDARG00000055278(cfb)	K04004+K03989+K01335
+Metabolism	Lipid metabolism	Glycerolipid metabolism	3	74	0.01321319	1.453451e-01	ko00561	ENSDARG00000017490(cel.1);ENSDARG00000029822(cel.2);ENSDARG00000053476(lipca)	K12298+K12298+K22283
+Organismal Systems	Digestive system	Carbohydrate digestion and absorption	2	29	0.01592779	1.533050e-01	ko04973	ENSDARG00000013871(slc5a1);ENSDARG00000009443(zgc:92137)	K14158+K01176
+Metabolism	Carbohydrate metabolism	Starch and sucrose metabolism	2	42	0.03195684	2.734085e-01	ko00500	ENSDARG00000013856(amy2a);ENSDARG00000009443(zgc:92137)	K01176+K01176
+Organismal Systems	Digestive system	Mineral absorption	2	53	0.0488164	3.758863e-01	ko04978	ENSDARG00000013871(slc5a1);ENSDARG00000056719(slc6a19b)	K14158+K05334
+Genetic Information Processing	Folding, sorting and degradation	Proteasome	2	57	0.05559246	3.891472e-01	ko03050	ENSDARG00000033144(psme2);ENSDARG00000001303(psmb8a)	K06697+K02740
+Metabolism	Glycan biosynthesis and metabolism	Amino sugar and nucleotide sugar metabolism	2	67	0.07384209	4.738201e-01	ko00520	ENSDARG00000044094(gfpt2);ENSDARG00000100635(chia.1)	K00820+K01183
+Human Diseases	Infectious disease: viral	Influenza A	2	72	0.08359452	4.929413e-01	ko05164	ENSDARG00000079274(prss59.1);ENSDARG00000073742(prss59.2)	K01312+K01312
+Organismal Systems	Endocrine system	Estrogen signaling pathway	2	75	0.08962569	4.929413e-01	ko04915	ENSDARG00000036832(cyt1l);ENSDARG00000095147(krt96)	K07604+K07604
+Cellular Processes	Transport and catabolism	Phagosome	4	269	0.1052263	5.401617e-01	ko04145	ENSDARG00000058023(si:dkey-11o15.7);ENSDARG00000019521(mpx);ENSDARG00000052207(c3a.3);ENSDARG00000013771(ctss2.2)	K06560+K10789+K03990+K01368
+Human Diseases	Infectious disease: viral	Coronavirus disease - COVID-19	2	97	0.1372464	6.176301e-01	ko05171	ENSDARG00000038424(c4b);ENSDARG00000055278(cfb)	K03989+K01335
+Metabolism	Glycan biosynthesis and metabolism	Glycosaminoglycan biosynthesis - keratan sulfate	1	22	0.1374356	6.176301e-01	ko00533	ENSDARG00000038489(b3gnt7)	K09664
+Metabolism	Lipid metabolism	alpha-Linolenic acid metabolism	1	24	0.1489657	6.176301e-01	ko00592	ENSDARG00000009153(pla2g1b)	K01047
+Metabolism	Metabolism of terpenoids and polyketides	Terpenoid backbone biosynthesis	1	25	0.1546738	6.176301e-01	ko00900	ENSDARG00000099336(mvda)	K01597
+Metabolism	Xenobiotics biodegradation and metabolism	Drug metabolism - other enzymes	2	107	0.1604234	6.176301e-01	ko00983	ENSDARG00000019521(mpx);ENSDARG00000101726(ces2b)	K10789+K03927
+Human Diseases	Cancer: specific types	Acute myeloid leukemia	1	28	0.1715727	6.290999e-01	ko05221	ENSDARG00000019521(mpx)	K10789
+Metabolism	Lipid metabolism	Linoleic acid metabolism	1	32	0.1935884	6.662231e-01	ko00591	ENSDARG00000009153(pla2g1b)	K01047
+Human Diseases	Infectious disease: bacterial	Pertussis	1	33	0.1990017	6.662231e-01	ko05133	ENSDARG00000038424(c4b)	K03989
+Human Diseases	Cancer: specific types	Small cell lung cancer	1	35	0.2097212	6.728555e-01	ko05222	ENSDARG00000006526(fn1b)	K05717
+Organismal Systems	Endocrine system	Renin secretion	1	38	0.2255362	6.946515e-01	ko04924	ENSDARG00000016290(clca1)	K05030
+Organismal Systems	Digestive system	Salivary secretion	1	43	0.2512049	7.084919e-01	ko04970	ENSDARG00000009443(zgc:92137)	K01176
+Human Diseases	Infectious disease: bacterial	Bacterial invasion of epithelial cells	1	46	0.2662022	7.084919e-01	ko05100	ENSDARG00000006526(fn1b)	K05717
+Metabolism	Amino acid metabolism	Alanine, aspartate and glutamate metabolism	1	48	0.2760358	7.084919e-01	ko00250	ENSDARG00000044094(gfpt2)	K00820
+Human Diseases	Endocrine and metabolic disease	AGE-RAGE signaling pathway in diabetic complications	1	48	0.2760358	7.084919e-01	ko04933	ENSDARG00000006526(fn1b)	K05717
+Human Diseases	Endocrine and metabolic disease	Alcoholic liver disease	1	48	0.2760358	7.084919e-01	ko04936	ENSDARG00000038424(c4b)	K03989
+Human Diseases	Infectious disease: parasitic	Chagas disease	1	53	0.3000557	7.195671e-01	ko05142	ENSDARG00000105263(ccl36.1)	K05408
+Environmental Information Processing	Signaling molecules and interaction	Viral protein interaction with cytokine and cytokine receptor	1	55	0.3094424	7.195671e-01	ko04061	ENSDARG00000105263(ccl36.1)	K05408
+Genetic Information Processing	Folding, sorting and degradation	Ubiquitin mediated proteolysis	2	168	0.3102664	7.195671e-01	ko04120	ENSDARG00000061222(uba7);ENSDARG00000075785(si:ch73-190m4.1)	K03178+K10615
+Metabolism	Global and overview maps	Metabolic pathways	15	1956	0.32146	7.195671e-01	ko01100	ENSDARG00000013856(amy2a);ENSDARG00000044094(gfpt2);ENSDARG00000099336(mvda);ENSDARG00000041083(anpepa);ENSDARG00000075958(si:dkey-266f7.9);ENSDARG00000009153(pla2g1b);ENSDARG00000088140(hsd17b7);ENSDARG00000009443(zgc:92137);ENSDARG00000017490(cel.1);ENSDARG00000061274(lss);ENSDARG00000029822(cel.2);ENSDARG00000053476(lipca);ENSDARG00000005565(entpd8);ENSDARG00000042641(cyp51);ENSDARG00000100635(chia.1)	K01176+K00820+K01597+K11140+K01771+K01047+K13373+K01176+K12298+K01852+K12298+K22283+K01510+K05917+K01183
+Metabolism	Lipid metabolism	Ether lipid metabolism	1	61	0.3368655	7.195671e-01	ko00565	ENSDARG00000009153(pla2g1b)	K01047
+Environmental Information Processing	Membrane transport	ABC transporters	1	63	0.345766	7.195671e-01	ko02010	ENSDARG00000061047(abcg4a)	K05680
+Organismal Systems	Digestive system	Cholesterol metabolism	1	63	0.345766	7.195671e-01	ko04979	ENSDARG00000059824(soat2)	K00637
+Metabolism	Lipid metabolism	Arachidonic acid metabolism	1	71	0.3802073	7.348369e-01	ko00590	ENSDARG00000009153(pla2g1b)	K01047
+Human Diseases	Infectious disease: viral	Herpes simplex virus 1 infection	3	333	0.3859947	7.348369e-01	ko05168	ENSDARG00000053136(b2m);ENSDARG00000009087(cd74a);ENSDARG00000052207(c3a.3)	K08055+K06505+K03990
+Metabolism	Nucleotide metabolism	Pyrimidine metabolism	1	74	0.3926572	7.348369e-01	ko00240	ENSDARG00000005565(entpd8)	K01510
+Metabolism	Lipid metabolism	Steroid hormone biosynthesis	1	76	0.4008201	7.348369e-01	ko00140	ENSDARG00000088140(hsd17b7)	K13373
+Human Diseases	Cancer: overview	MicroRNAs in cancer	1	76	0.4008201	7.348369e-01	ko05206	ENSDARG00000044437(cdca5)	K17390
+Metabolism	Metabolism of other amino acids	Glutathione metabolism	1	79	0.4128623	7.393116e-01	ko00480	ENSDARG00000041083(anpepa)	K11140
+Organismal Systems	Immune system	Hematopoietic cell lineage	1	88	0.4475775	7.533008e-01	ko04640	ENSDARG00000041083(anpepa)	K11140
+Human Diseases	Infectious disease: viral	Human cytomegalovirus infection	1	88	0.4475775	7.533008e-01	ko05163	ENSDARG00000105263(ccl36.1)	K05408
+Human Diseases	Infectious disease: parasitic	Amoebiasis	1	91	0.4586939	7.533008e-01	ko05146	ENSDARG00000006526(fn1b)	K05717
+Human Diseases	Immune disease	Rheumatoid arthritis	1	93	0.4659822	7.533008e-01	ko05323	ENSDARG00000105263(ccl36.1)	K05408
+Human Diseases	Infectious disease: bacterial	Yersinia infection	1	94	0.4695901	7.533008e-01	ko05135	ENSDARG00000006526(fn1b)	K05717
+Cellular Processes	Transport and catabolism	Mitophagy - animal	1	99	0.4872725	7.554729e-01	ko04137	ENSDARG00000052515(calcoco2)	K21348
+Organismal Systems	Immune system	Chemokine signaling pathway	1	104	0.5043743	7.554729e-01	ko04062	ENSDARG00000105263(ccl36.1)	K05408
+Organismal Systems	Digestive system	Bile secretion	1	108	0.5176504	7.554729e-01	ko04976	ENSDARG00000013871(slc5a1)	K14158
+Metabolism	Carbohydrate metabolism	Inositol phosphate metabolism	1	111	0.5273771	7.554729e-01	ko00562	ENSDARG00000075958(si:dkey-266f7.9)	K01771
+Human Diseases	Cancer: overview	Proteoglycans in cancer	1	113	0.5337541	7.554729e-01	ko05205	ENSDARG00000006526(fn1b)	K05717
+Human Diseases	Infectious disease: bacterial	Tuberculosis	1	119	0.5523811	7.554729e-01	ko05152	ENSDARG00000058023(si:dkey-11o15.7)	K06560
+Metabolism	Lipid metabolism	Glycerophospholipid metabolism	1	121	0.5584258	7.554729e-01	ko00564	ENSDARG00000009153(pla2g1b)	K01047
+Human Diseases	Cardiovascular disease	Lipid and atherosclerosis	1	121	0.5584258	7.554729e-01	ko05417	ENSDARG00000105263(ccl36.1)	K05408
+Environmental Information Processing	Signaling molecules and interaction	Cytokine-cytokine receptor interaction	2	278	0.5592462	7.554729e-01	ko04060	ENSDARG00000105263(ccl36.1);ENSDARG00000101040(ccl20a.3)	K05408+K14625
+Human Diseases	Infectious disease: viral	Human papillomavirus infection	1	126	0.5731882	7.555869e-01	ko05165	ENSDARG00000006526(fn1b)	K05717
+Organismal Systems	Immune system	Toll-like receptor signaling pathway	1	128	0.5789562	7.555869e-01	ko04620	ENSDARG00000105263(ccl36.1)	K05408
+Environmental Information Processing	Signaling molecules and interaction	ECM-receptor interaction	1	134	0.5958036	7.646146e-01	ko04512	ENSDARG00000006526(fn1b)	K05717
+Environmental Information Processing	Signaling molecules and interaction	Neuroactive ligand-receptor interaction	4	664	0.6576485	8.040773e-01	ko04080	ENSDARG00000042993(prss1);ENSDARG00000052207(c3a.3);ENSDARG00000079274(prss59.1);ENSDARG00000073742(prss59.2)	K01312+K03990+K01312+K01312
+Organismal Systems	Immune system	C-type lectin receptor signaling pathway	1	159	0.6591407	8.040773e-01	ko04625	ENSDARG00000043249(irf1b)	K09444
+Organismal Systems	Endocrine system	Melanogenesis	1	159	0.6591407	8.040773e-01	ko04916	ENSDARG00000056226(creb3l3a)	K09048
+Environmental Information Processing	Signal transduction	PI3K-Akt signaling pathway	1	163	0.668324	8.040773e-01	ko04151	ENSDARG00000006526(fn1b)	K05717
+Human Diseases	Immune disease	Systemic lupus erythematosus	1	169	0.681644	8.074860e-01	ko05322	ENSDARG00000038424(c4b)	K03989
+Organismal Systems	Immune system	Neutrophil extracellular trap formation	1	180	0.7047105	8.145037e-01	ko04613	ENSDARG00000019521(mpx)	K10789
+Metabolism	Nucleotide metabolism	Purine metabolism	1	182	0.708724	8.145037e-01	ko00230	ENSDARG00000005565(entpd8)	K01510
+Human Diseases	Cancer: overview	Pathways in cancer	1	198	0.7389563	8.313151e-01	ko05200	ENSDARG00000006526(fn1b)	K05717
+Cellular Processes	Transport and catabolism	Lysosome	1	212	0.7628607	8.313151e-01	ko04142	ENSDARG00000013771(ctss2.2)	K01368
+Cellular Processes	Cell growth and death	Necroptosis	1	217	0.7708646	8.313151e-01	ko04217	ENSDARG00000028731(stat4)	K11222
+Organismal Systems	Circulatory system	Vascular smooth muscle contraction	1	217	0.7708646	8.313151e-01	ko04270	ENSDARG00000009153(pla2g1b)	K01047
+Human Diseases	Cancer: overview	Transcriptional misregulation in cancer	1	225	0.7831212	8.313151e-01	ko05202	ENSDARG00000019521(mpx)	K10789
+Genetic Information Processing	Folding, sorting and degradation	Protein processing in endoplasmic reticulum	1	229	0.7890051	8.313151e-01	ko04141	ENSDARG00000053502(cryaa)	K09541
+Cellular Processes	Cell growth and death	Apoptosis	1	236	0.7989262	8.313151e-01	ko04210	ENSDARG00000013771(ctss2.2)	K01368
+Organismal Systems	Circulatory system	Adrenergic signaling in cardiomyocytes	1	272	0.8431314	8.656149e-01	ko04261	ENSDARG00000056226(creb3l3a)	K09048
+Cellular Processes	Cellular community - eukaryotes	Focal adhesion	1	334	0.8979388	9.048007e-01	ko04510	ENSDARG00000006526(fn1b)	K05717
+Cellular Processes	Cell motility	Regulation of actin cytoskeleton	1	344	0.9048007	9.048007e-01	ko04810	ENSDARG00000006526(fn1b)	K05717
