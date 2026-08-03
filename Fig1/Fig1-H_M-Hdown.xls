@@ -1,0 +1,53 @@
+KEGG_A_class	KEGG_B_class	Pathway	MG-vs-HG (32)	All (983)	Pvalue	Qvalue	Pathway ID	Genes	K_IDs
+Metabolism	Lipid metabolism	Biosynthesis of unsaturated fatty acids	6	21	2.816089e-05	0.001464366	ko01040	M277T48_NEG(.gamma.-linolenic acid);M309T44_1_NEG(Eicosenoic acid);M337T43_NEG(Erucic acid);M279T47_NEG(Linoleic acid);M281T47_2_NEG(Oleic acid);M255T77_NEG(Palmitic acid)	C06426+C16526+C08316+C01595+C00712+C00249
+Metabolism	Lipid metabolism	Fatty acid biosynthesis	4	10	0.0001699798	0.004419475	ko00061	M253T50_2_NEG(Cis-9-palmitoleic acid);M227T51_2_NEG(Myristic acid);M281T47_2_NEG(Oleic acid);M255T77_NEG(Palmitic acid)	C08362+C06424+C00712+C00249
+Human Diseases	Cancer: overview	Choline metabolism in cancer	4	13	0.0005399578	0.009359269	ko05231	M508T188_POS(1-(1z-octadecenyl)-sn-glycero-3-phosphocholine);M482T191_POS(1-hexadecyl-sn-glycero-3-phosphocholine);M524T182_2_POS(1-stearoyl-2-hydroxy-sn-glycero-3-phosphocholine);M104T312_POS(Choline)	C04230+C04230+C04230+C00114
+Metabolism	Lipid metabolism	Glycerophospholipid metabolism	4	21	0.003757322	0.048845186	ko00564	M508T188_POS(1-(1z-octadecenyl)-sn-glycero-3-phosphocholine);M482T191_POS(1-hexadecyl-sn-glycero-3-phosphocholine);M524T182_2_POS(1-stearoyl-2-hydroxy-sn-glycero-3-phosphocholine);M104T312_POS(Choline)	C04230+C04230+C04230+C00114
+Environmental Information Processing	Membrane transport	ABC transporters	6	75	0.02954906	0.277803587	ko02010	M137T205_2_POS(2'-deoxyinosine);M104T312_POS(Choline);M227T116_NEG(Ile-Pro);M267T212_NEG(Inosine);M145T525_NEG(L-Lysine);M202T185_NEG(N-acetyl-d-glucosamine)	C05512+C00114+C00526+C00294+C00047+C00140
+Metabolism	Lipid metabolism	Linoleic acid metabolism	2	9	0.03205426	0.277803587	ko00591	M277T48_NEG(.gamma.-linolenic acid);M279T47_NEG(Linoleic acid)	C06426+C01595
+Metabolism	Lipid metabolism	Fatty acid elongation	1	3	0.09460869	0.663990167	ko00062	M255T77_NEG(Palmitic acid)	C00249
+Metabolism	Lipid metabolism	Primary bile acid biosynthesis	2	18	0.1136328	0.663990167	ko00120	M423T36_3_POS(7.alpha.-hydroxy-4-cholesten-3-one);M466T177_2_POS(Glycocholic acid)	C05455+C01921
+Metabolism	Chemical structure transformation maps	Biosynthesis of plant secondary metabolites	5	82	0.1204261	0.663990167	ko01060	M263T50_NEG(2-cis-4-trans-abscisic acid);M145T525_NEG(L-Lysine);M279T47_NEG(Linoleic acid);M281T47_2_NEG(Oleic acid);M255T77_NEG(Palmitic acid)	C06082+C00047+C01595+C00712+C00249
+Organismal Systems	Aging	Longevity regulating pathway - worm	1	5	0.1528001	0.663990167	ko04212	M281T47_2_NEG(Oleic acid)	C00712
+Metabolism	Metabolism of cofactors and vitamins	Biotin metabolism	1	6	0.1805204	0.663990167	ko00780	M145T525_NEG(L-Lysine)	C00047
+Organismal Systems	Nervous system	Cholinergic synapse	1	6	0.1805204	0.663990167	ko04725	M104T312_POS(Choline)	C00114
+Organismal Systems	Circulatory system	Adrenergic signaling in cardiomyocytes	1	7	0.2073611	0.663990167	ko04261	M168T251_NEG(Norepinephrine)	C00547
+Organismal Systems	Digestive system	Salivary secretion	1	7	0.2073611	0.663990167	ko04970	M168T251_NEG(Norepinephrine)	C00547
+Metabolism	Lipid metabolism	Arachidonic acid metabolism	2	27	0.2182243	0.663990167	ko00590	M349T107_NEG(11-dehydrothromboxane b2);M301T43_NEG(5s-hydroxy-6e,8z,11z,14z-eicosatetraenoic acid)	C05964+C04805
+Metabolism	Energy metabolism	Sulfur metabolism	1	8	0.2333492	0.663990167	ko00920	M218T170_1_NEG(O-succinyl-l-homoserine)	C01118
+Organismal Systems	Circulatory system	Vascular smooth muscle contraction	1	8	0.2333492	0.663990167	ko04270	M168T251_NEG(Norepinephrine)	C00547
+Cellular Processes	Cellular community - eukaryotes	Gap junction	1	8	0.2333492	0.663990167	ko04540	M168T251_NEG(Norepinephrine)	C00547
+Metabolism	Lipid metabolism	Fatty acid degradation	1	9	0.2585111	0.663990167	ko00071	M255T77_NEG(Palmitic acid)	C00249
+Organismal Systems	Nervous system	Synaptic vesicle cycle	1	9	0.2585111	0.663990167	ko04721	M168T251_NEG(Norepinephrine)	C00547
+Metabolism	Amino acid metabolism	Lysine biosynthesis	1	10	0.2828721	0.663990167	ko00300	M145T525_NEG(L-Lysine)	C00047
+Metabolism	Lipid metabolism	alpha-Linolenic acid metabolism	1	10	0.2828721	0.663990167	ko00592	M275T45_NEG(Stearidonic acid)	C16300
+Metabolism	Nucleotide metabolism	Pyrimidine metabolism	2	34	0.3045459	0.663990167	ko00240	M241T103_NEG(His-ser);M227T116_NEG(Ile-Pro)	C00214+C00526
+Metabolism	Global and overview maps	Fatty acid metabolism	1	11	0.306457	0.663990167	ko01212	M255T77_NEG(Palmitic acid)	C00249
+Organismal Systems	Endocrine system	Renin secretion	1	12	0.3292897	0.684922576	ko04924	M168T251_NEG(Norepinephrine)	C00547
+Metabolism	Metabolism of cofactors and vitamins	Folate biosynthesis	1	13	0.3513934	0.692325771	ko00790	M236T87_NEG(Sepiapterin)	C00835
+Metabolism	Global and overview maps	Metabolic pathways	22	631	0.3654918	0.692325771	ko01100	M170T239_3_POS(1-methylhistidine);M137T205_2_POS(2'-deoxyinosine);M423T36_3_POS(7.alpha.-hydroxy-4-cholesten-3-one);M104T312_POS(Choline);M466T177_2_POS(Glycocholic acid);M277T48_NEG(.gamma.-linolenic acid);M346T257_NEG((-)-secoisolariciresinol);M349T107_NEG(11-dehydrothromboxane b2);M263T50_NEG(2-cis-4-trans-abscisic acid);M301T75_NEG(Abietic acid);M253T50_2_NEG(Cis-9-palmitoleic acid);M241T103_NEG(His-ser);M227T116_NEG(Ile-Pro);M267T212_NEG(Inosine);M145T525_NEG(L-Lysine);M279T47_NEG(Linoleic acid);M227T51_2_NEG(Myristic acid);M202T185_NEG(N-acetyl-d-glucosamine);M168T251_NEG(Norepinephrine);M218T170_1_NEG(O-succinyl-l-homoserine);M255T77_NEG(Palmitic acid);M236T87_NEG(Sepiapterin)	C01152+C05512+C05455+C00114+C01921+C06426+C18167+C05964+C06082+C06087+C08362+C00214+C00526+C00294+C00047+C01595+C06424+C00140+C00547+C01118+C00249+C00835
+Organismal Systems	Endocrine system	Regulation of lipolysis in adipocytes	1	14	0.3727908	0.692325771	ko04923	M168T251_NEG(Norepinephrine)	C00547
+Environmental Information Processing	Signal transduction	cAMP signaling pathway	1	16	0.413553	0.698173097	ko04024	M168T251_NEG(Norepinephrine)	C00547
+Metabolism	Lipid metabolism	Secondary bile acid biosynthesis	1	17	0.4329598	0.698173097	ko00121	M466T177_2_POS(Glycocholic acid)	C01921
+Organismal Systems	Sensory system	Inflammatory mediator regulation of TRP channels	1	17	0.4329598	0.698173097	ko04750	M301T43_NEG(5s-hydroxy-6e,8z,11z,14z-eicosatetraenoic acid)	C04805
+Metabolism	Nucleotide metabolism	Purine metabolism	2	45	0.4364462	0.698173097	ko00230	M137T205_2_POS(2'-deoxyinosine);M267T212_NEG(Inosine)	C05512+C00294
+Organismal Systems	Nervous system	Serotonergic synapse	1	18	0.4517437	0.698173097	ko04726	M349T107_NEG(11-dehydrothromboxane b2)	C05964
+Metabolism	Amino acid metabolism	Lysine degradation	1	19	0.4699242	0.698173097	ko00310	M145T525_NEG(L-Lysine)	C00047
+Metabolism	Amino acid metabolism	Histidine metabolism	1	19	0.4699242	0.698173097	ko00340	M170T239_3_POS(1-methylhistidine)	C01152
+Genetic Information Processing	Translation	Aminoacyl-tRNA biosynthesis	1	20	0.4875201	0.704195700	ko00970	M145T525_NEG(L-Lysine)	C00047
+Organismal Systems	Sensory system	Taste transduction	1	22	0.5210302	0.719223787	ko04742	M168T251_NEG(Norepinephrine)	C00547
+Metabolism	Amino acid metabolism	Tyrosine metabolism	1	23	0.5369793	0.719223787	ko00350	M168T251_NEG(Norepinephrine)	C00547
+Organismal Systems	Digestive system	Protein digestion and absorption	1	24	0.5524133	0.719223787	ko04974	M145T525_NEG(L-Lysine)	C00047
+Metabolism	Global and overview maps	Biosynthesis of amino acids	2	58	0.5746296	0.719223787	ko01230	M145T525_NEG(L-Lysine);M218T170_1_NEG(O-succinyl-l-homoserine)	C00047+C01118
+Metabolism	Amino acid metabolism	Glycine, serine and threonine metabolism	1	27	0.5957839	0.719223787	ko00260	M104T312_POS(Choline)	C00114
+Metabolism	Amino acid metabolism	Tryptophan metabolism	1	27	0.5957839	0.719223787	ko00380	M204T86_NEG(Xanthurenic acid)	C02470
+Metabolism	Chemical structure transformation maps	Biosynthesis of terpenoids and steroids	1	28	0.6093142	0.719223787	ko01062	M263T50_NEG(2-cis-4-trans-abscisic acid)	C06082
+Metabolism	Chemical structure transformation maps	Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid	1	28	0.6093142	0.719223787	ko01064	M145T525_NEG(L-Lysine)	C00047
+Metabolism	Amino acid metabolism	Cysteine and methionine metabolism	1	29	0.6224052	0.719223787	ko00270	M218T170_1_NEG(O-succinyl-l-homoserine)	C01118
+Metabolism	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism	1	32	0.6591792	0.723480669	ko00520	M202T185_NEG(N-acetyl-d-glucosamine)	C00140
+Organismal Systems	Digestive system	Bile secretion	2	68	0.6639715	0.723480669	ko04976	M104T312_POS(Choline);M466T177_2_POS(Glycocholic acid)	C00114+C01921
+Metabolism	Chemical structure transformation maps	Biosynthesis of plant hormones	1	34	0.6817414	0.723480669	ko01070	M263T50_NEG(2-cis-4-trans-abscisic acid)	C06082
+Metabolism	Global and overview maps	2-Oxocarboxylic acid metabolism	1	34	0.6817414	0.723480669	ko01210	M145T525_NEG(L-Lysine)	C00047
+Environmental Information Processing	Signaling molecules and interaction	Neuroactive ligand-receptor interaction	1	42	0.7583673	0.788701992	ko04080	M168T251_NEG(Norepinephrine)	C00547
+Metabolism	Global and overview maps	Biosynthesis of secondary metabolites	7	345	0.9668282	0.985785616	ko01110	M346T257_NEG((-)-secoisolariciresinol);M263T50_NEG(2-cis-4-trans-abscisic acid);M301T75_NEG(Abietic acid);M145T525_NEG(L-Lysine);M218T170_1_NEG(O-succinyl-l-homoserine);M165T126_2_NEG(Phenyllactic acid);M275T45_NEG(Stearidonic acid)	C18167+C06082+C06087+C00047+C01118+C01479+C16300
+Metabolism	Global and overview maps	Microbial metabolism in diverse environments	1	139	0.9930129	0.993012900	ko01120	M145T525_NEG(L-Lysine)	C00047
