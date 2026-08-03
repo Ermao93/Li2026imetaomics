@@ -1,0 +1,9 @@
+代谢组
+
+A DMSO
+B DMSO
+C DMSO
+
+D IBA
+E IBA
+F IBA
